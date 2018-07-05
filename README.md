@@ -35,7 +35,4 @@
     github
     知乎
 
-联系微信
-ckehao
-邮箱
-admin@tvery.com
+联系微信 ckehao 或 andrew__lu 邮箱 admin@tvery.com
