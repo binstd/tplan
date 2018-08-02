@@ -22,10 +22,10 @@
 规划的技术文档
 > bytom https://bytom.io    
 > ipfs https://ipfs.io/docs/    
-> 0x协议 https://www.0xproject.com/docs/
+> 0x协议 https://www.0xproject.com/docs/ 
 > truffle https://github.com/embark-framework/embark  
-> embark https://embark.status.im/
-> cosmos http://cosmos.network/
+> embark https://embark.status.im/ 
+> cosmos http://cosmos.network/ 
 
 社群载体
 * 微信群
