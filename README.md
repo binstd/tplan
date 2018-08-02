@@ -65,6 +65,9 @@
 在建网站社群
 
 bytom中文 https://bytom.binstd.org/
+IPFS中文 https://ipfs.binstd.org/
+
+---
 
 联系微信
 ckehao
