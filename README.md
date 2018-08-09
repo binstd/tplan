@@ -7,7 +7,7 @@
 文档计划教程
 
 **如何成为编辑译者参与翻译**
-* 申请成为编辑 (https://github.com/binstd/tplan/wiki/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%AF%91%E8%80%85%E5%8F%82%E4%B8%8E%E7%BF%BB%E8%AF%91)
+* 申请成为站长/译者 (https://github.com/binstd/tplan/wiki/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%AF%91%E8%80%85%E5%8F%82%E4%B8%8E%E7%BF%BB%E8%AF%91)
 * 每篇文档需要一位编辑（译者）和两位校对者
 * 如何参与校对及校对的正确姿势
 * 译文排版规则指北
