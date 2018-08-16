@@ -19,14 +19,6 @@
 **版权**
 * 版权归原官方文档、BinSTD文档计划、站长和编辑译者共同所有。
 
-规划的技术文档
-> bytom https://bytom.io    
-> ipfs https://ipfs.io/docs/    
-> 0x协议 https://www.0xproject.com/docs/    
-> truffle https://github.com/embark-framework/embark    
-> embark https://embark.status.im/    
-> cosmos http://cosmos.network/ 
-
 社群载体
 * 微信群
 * github
@@ -61,6 +53,14 @@
 * 完成站长的其他工作安排
 
 **推动进度**
+
+规划的技术文档
+> bytom https://bytom.io    
+> ipfs https://ipfs.io/docs/    
+> 0x协议 https://www.0xproject.com/docs/    
+> truffle https://github.com/embark-framework/embark    
+> embark https://embark.status.im/    
+> cosmos http://cosmos.network/ 
 
 在建网站社群
 
