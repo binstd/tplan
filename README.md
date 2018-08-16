@@ -70,6 +70,6 @@ IPFS中文 https://ipfs.binstd.org/
 ---
 
 联系微信
-ckehao
+waltzgo 或 ckehao
 邮箱
 admin@tvery.com
