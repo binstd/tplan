@@ -7,3 +7,19 @@ Cosmos文档：https://cosmos.network/docs/
 中文站点github：https://github.com/binstd/cosmos
 
 区块链入门资料：https://github.com/sarah21cn/BlockChainTechnology
+
+#### 翻译要求
+
+1. 尽量减少逐字逐句翻译，根据自己的理解翻译
+
+2. 专业术语在第一次出现的地方，尽量带上原文名称
+
+3. 原文的相关跳转链接尽量带上，markdown语法如下：
+
+   ```
+   []() // []为跳转链接标题  ()为跳转链接地址
+   ```
+
+4. 翻译过程中，如有查阅相关资料，可单列出参考文献
+
+5. 翻译完成后，建议通读一遍，从中文的角度看是否存在理解问题
