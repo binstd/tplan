@@ -30,7 +30,7 @@
 > bytom https://bytom.io    
 > ipfs https://ipfs.io/docs/    
 > 0x协议 https://www.0xproject.com/docs/    
-> truffle https://github.com/embark-framework/embark    
+> truffle http://truffleframework.com    
 > embark https://embark.status.im/    
 > cosmos http://cosmos.network/ 
 
