@@ -40,7 +40,7 @@ bytom中文 https://bytom.binstd.org/
 
 IPFS中文 https://ipfs.binstd.org/
 
-truffle中文
+truffle中文  https://truffle.binstd.org/
 
 ---
 
